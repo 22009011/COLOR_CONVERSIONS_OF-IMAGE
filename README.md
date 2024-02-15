@@ -55,7 +55,9 @@ print(img.shape)
 ```
 
 ## output:
-![image](https://github.com/Ragu-123/COLOR_CONVERSIONS_OF-IMAGE/assets/113915622/909323c5-5439-4e7a-a48a-d8f7b220394e)
+![Uploading image.png…]()
+
+
 
 ### ii)Write the image
 ```
