@@ -37,7 +37,7 @@ Split and merge HSV Image
 
 ##### Program:
 ### Developed By:THANJIYAPPAN K
-### Register Number:212222240108 
+### Register Number:212222240108
 
 
 
@@ -55,9 +55,7 @@ print(img.shape)
 ```
 
 ## output:
-![Uploading image.png…]()
-
-
+![image](https://github.com/Ragu-123/COLOR_CONVERSIONS_OF-IMAGE/assets/113915622/909323c5-5439-4e7a-a48a-d8f7b220394e)
 
 ### ii)Write the image
 ```
@@ -269,10 +267,3 @@ cv2.destroyAllWindows()
 
 ## Result:
 Thus the images are read, displayed, and written ,and color conversion was performed between RGB, HSV and YCbCr color models successfully using the python program.
-
-
-
-
-
-
-
