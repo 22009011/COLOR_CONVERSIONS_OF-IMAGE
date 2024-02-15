@@ -6,7 +6,7 @@ i) Read, display, and write an image.
 
 ii) Access the rows and columns in an image.
 
-iii) Cut and paste a small portion of the image.
+iii) Cut and paste a small portion of the image 
 
 iv)To perform the color conversion between RGB, BGR, HSV, and YCbCr color models.
 
